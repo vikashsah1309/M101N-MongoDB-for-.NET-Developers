@@ -10,6 +10,10 @@ We are also providing a generated data set with 10000 entries with comments and 
 
 First, begin by dropping your blog database, and loading the sample data and taking a look:
 
+-> Go to command prompt and type mongod enter
+-> open another command prompt and type mongo enter
+->open another command prompt go where is your dump folder than excute below command
+
 echo db.dropDatabase() | mongo blog
 mongorestore dump
 mongo blog
