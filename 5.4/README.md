@@ -8,6 +8,7 @@ We will take these are the prefered cities to live in (chosen by this instructor
 You will be using the zip code collection data set, which you will find in the 'handouts' link in this page.
 
 Import it into your mongod using the following command from the command line:
+
 -> Go to command prompt and type mongod enter
 
 -> open another command prompt and type mongo enter
